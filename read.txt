@@ -1,0 +1,10 @@
+Derived State: When we use a state, by depending on another state.  
+
+useState & useEffect is nothing but a function. A function with special purpose. Those Hooks will track something and return something as their internal mechanism. This Hook will return two things inside an array. 
+
+useState: useState keeps track of any kind of change in UI, about which the particular state is concerned. 
+
+useEffect: This hook manages external things.
+
+custom hook: when we use any function as a hook. Convention: Name your custom hook using use like 'useName' 
+at first.
